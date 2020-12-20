@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
                             children: [
                               Icon(
                                 Icons.video_call,
-                                color: Colors.red,
+                                color: Colors.deepOrange,
                               ),
                               Text("登録する"),
                             ],
